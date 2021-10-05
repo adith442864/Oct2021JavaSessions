@@ -99,7 +99,7 @@ public class LoopsConcept {
 		
 		System.out.println("------Modulo----------");
 		// using modulus %
-		for(int eve=2; eve<=10; eve++) {
+		for(int eve=2; eve<=10; eve+=1) {
 			if(eve % 2 == 0) {
 				System.out.println(eve);
 			}
