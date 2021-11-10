@@ -58,15 +58,7 @@ public class ArrayListTest {
 			
 		}
 		
-		
-		
-		
-		
-		
-		
-		
-		
-
+	
 	}
 
 }
