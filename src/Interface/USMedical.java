@@ -12,7 +12,9 @@ public interface USMedical extends WHO {
 	// static method cannot be overridden
 	// interface cannot have a superclass
 	
+	// 100% abstraction
 	
+	//abstract methods:
 	public void orthoServices();
 	
 	public void physioServices();
