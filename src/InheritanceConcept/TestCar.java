@@ -32,7 +32,7 @@ public class TestCar {
 		// Top casting:
 		Car c1 = new BMW(); //child class object can be referred by parent class ref variable
 		c1.start(); //Overridden
-		c1.stop(); // inherited
+		c1.stop(); // inherited 
 		c1.refuel(); //inherited
 		
 		//c1.autoParking()  -> reference type security check
