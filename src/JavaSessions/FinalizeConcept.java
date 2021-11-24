@@ -9,12 +9,12 @@ public class FinalizeConcept {
 		FinalizeConcept obj = new FinalizeConcept();
 		obj=null;
 		
-		Employee e1= new Employee();
-		e1=null;
+//		Employee e1= new Employee();
+//		e1=null;
 		
 		System.gc();
 		
-		System.out.println("Bye!!!");
+		System.out.println("processing done....");
 
 	}
 	
